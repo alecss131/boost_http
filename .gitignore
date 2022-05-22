@@ -1,0 +1,12 @@
+/.idea
+/cmake-*
+/test-f
+*.ini
+*.exe
+/out
+*.jpg
+*.html
+*.js
+*.css
+*.png
+*.html
